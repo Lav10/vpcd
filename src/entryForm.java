@@ -1612,7 +1612,7 @@ public class entryForm extends javax.swing.JFrame {
 
                 }
                 if (uName.equalsIgnoreCase("neo") && password.equalsIgnoreCase("theone")) {
-                    JOptionPane.showMessageDialog(null, "VPCD is created by Lav Chaudhary and Pranjal Sangal!!");
+                    JOptionPane.showMessageDialog(null, "VPCD is created by Lav Chaudhary!!");
                     l++;
                 }
 
