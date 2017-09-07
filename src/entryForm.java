@@ -1508,7 +1508,7 @@ public class entryForm extends javax.swing.JFrame {
         jLabel28.setText("Virtual PC Designer");
 
         jLabel29.setForeground(new java.awt.Color(51, 51, 255));
-        jLabel29.setText("Created By: Lav Chaudhary and Pranjal Sangal ");
+        jLabel29.setText("Created By: Lav Chaudhary");
 
         jLabel30.setForeground(new java.awt.Color(51, 51, 255));
         jLabel30.setText("Semester 3 ");
